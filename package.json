@@ -1,0 +1,29 @@
+{
+  "name": "speed_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "chromedriver": "^90.0.0",
+    "cli-progress": "^3.9.0",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  },
+  "devDependencies": {},
+  "bin": {
+    "speed_test": "script.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "speed_test": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh1809Dev/speed_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harsh1809Dev/speed_test/issues"
+  },
+  "homepage": "https://github.com/Harsh1809Dev/speed_test#readme"
+}
